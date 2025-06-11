@@ -11,7 +11,7 @@
 I'm a passionate **Full Stack Developer** and **Electrical Engineering** student at B.I.T. Sindri, Dhanbad, with a strong foundation in modern web technologies and mobile development. I love building scalable applications that solve real-world problems.
 
 - 🎓 Currently pursuing **B.Tech in Electrical Engineering** at B.I.T. Sindri (CGPA: 8.32)
-- 💼 **Student Coordinator** at ISTE Students' Chapter & **Executive - Alumni Affairs** at EE Society
+- 💼 **Technical Aide** at ISTE Students' Chapter & **Executive - Alumni Affairs** at EE Society
 - 🌱 Always learning and exploring new technologies
 - 🏆 Competition winner with **2nd place** in Nexus 3.0 and **3rd place** in Spider 3.0
 - 📍 Based in Bokaro, Jharkhand, India
